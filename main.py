@@ -10,7 +10,7 @@ from time import sleep
 import os, signal, sys
 from rich.console import Console
 from rich.prompt import Prompt, IntPrompt
-from cpmnuker import CPMNuker
+from espoproject import EsspoProject
 
 __CHANNEL_USERNAME__ = "Esspo_project"
 __GROUP_USERNAME__   = "esspoproject"
