@@ -7,10 +7,15 @@
 
 import random
 from time import sleep
-import os, signal, sys
+import signal, sys, os
 from rich.console import Console
 from rich.prompt import Prompt, IntPrompt
-from espoproject import EsspoProject
+from rich.color import Color
+from rich.text import Text
+import numpy as np
+
+from espoproject@gmail import EsspoProject
+
 
 __CHANNEL_USERNAME__ = "Esspo_project"
 __GROUP_USERNAME__   = "esspoproject"
