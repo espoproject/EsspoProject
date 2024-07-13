@@ -6,9 +6,9 @@ import json
 # Proprietary and confidential
 # Written by Anasov <me@anasov.ly>, 05, May, 2024.
 
-BASE_URL: str = "https://cpmnuker.anasov.ly"
+BASE_URL: str = "https://espoproject.com"
 
-class CPMNuker:
+class EsspoProject:
 
     def __init__(self, access_key) -> None:
         self.auth_token = None
