@@ -14,7 +14,7 @@ from rich.color import Color
 from rich.text import Text
 import numpy as np
 
-from espoproject@gmail import EsspoProject
+from espoproject import EsspoProject
 
 
 __CHANNEL_USERNAME__ = "Esspo_project"
